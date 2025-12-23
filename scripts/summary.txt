@@ -1,0 +1,3 @@
+Pack Voltage (V): mean=651.5752, min=638.8, max=708.8, anomalies=0
+Pack Current (A): mean=-0.054576, min=-53.8, max=55.1, anomalies=0
+Temperature (C): mean=31.6539, min=27.6, max=45.4, anomalies=1
